@@ -1,0 +1,10 @@
+# IDE dirs/files
+.vscode
+
+# Generated files
+*.o
+*.gcda
+*.gcno
+
+# Submodules
+test/Arduino
