@@ -5,6 +5,3 @@
 *.o
 *.gcda
 *.gcno
-
-# Submodules
-test/Arduino
